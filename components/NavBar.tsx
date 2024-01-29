@@ -12,11 +12,10 @@ function NavBar() {
                     height={600} />
             </div>
 
-            <div className='flex gap-6'>
-                <h2> Home</h2>
-                <h2> Hystory </h2>
-                
-                <h2> Help </h2>
+            <div className='hidden md:flex gap-6'>
+                <h2 className='hover:bg-gray-100 p-2 rounded-md cursor-pointer transition-all'> Home</h2>
+                <h2 className='hover:bg-gray-100 p-2 rounded-md cursor-pointer transition-all'> Hystory </h2>
+                <h2 className='hover:bg-gray-100 p-2 rounded-md cursor-pointer transition-all'> Help </h2>
             </div>
         </div><UserButton afterSignOutUrl="/" /></>
     );
