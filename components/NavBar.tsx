@@ -15,6 +15,7 @@ function NavBar() {
             <div className='flex gap-6'>
                 <h2> Home</h2>
                 <h2> Hystory </h2>
+                
                 <h2> Help </h2>
             </div>
         </div><UserButton afterSignOutUrl="/" /></>
