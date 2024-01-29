@@ -4,7 +4,7 @@ import React from "react";
 
 function NavBar() {
     return (
-        <><div className='flex'>
+        <><div className='flex justify-between p-3 px-10'>
             <div className='flex gap-10 items-center'>
                 <Image src='/logo.png'
                     alt='logo'
