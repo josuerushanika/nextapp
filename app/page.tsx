@@ -5,10 +5,10 @@ export default function Home() {
     <div>
       <div className="grid  grid-cols-3">
         <div className="bg-blue-100">
-          Booking
+         Booking
         </div>
         <div className="col-span-2 bg-red-200">
-          Map
+         Map
         </div>
       </div>
 
