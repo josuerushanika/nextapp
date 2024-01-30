@@ -36,7 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more 
 details.
 
-
+<!-- React NextJs 13 Taxi Booking App _ NextJs 13, Tailwind Css, Typescript, Mapbox, Stripe  -->
 
 nvm use v18.17.0
 
