@@ -40,4 +40,4 @@ details.
 
 nvm use v18.17.0
 
-32:09
+1h
